@@ -38,7 +38,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 </p>
 <p>
-Go to the link asjdajsdajsnd next click open a new ticket 
+Go to the link next click open a new ticket 
 </p>
 <br />
 
